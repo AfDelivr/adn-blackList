@@ -3,6 +3,9 @@ description: 申请解封选择此模板
 labels: ["待审核"]
 assignees:
   - zxmacc
+  - BowenYoung
+  - felixchen0707
+  - Arcitcgn
 body:
   - type: markdown
     attributes:
