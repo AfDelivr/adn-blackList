@@ -25,7 +25,7 @@ body:
         请根据我们在进行封禁前发给您的邮件进行整改
         并在此描述您的整改方案以及结果（建议打开控制台截图）
     validations:
-      required: false
+      required: true
   - type: checkboxes
     id: checkagain
     attributes:
@@ -34,7 +34,7 @@ body:
         1. 我已阅读ADN使用服务协议。
         2. 我所填写的信息准确且属实。
         3. 我将配合ADN团队进行进一步整改。
-        4. 我承诺合理使用ADN资源
+        4. 我承诺合理使用ADN资源。
       options:
         - label: 我已确认以上事项
           required: true
