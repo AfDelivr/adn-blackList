@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 问题 & 讨论 & 建议
+    url: https://github.com/afcdn/adn-blackList/discussions
+    about: 在discussions中对黑名单功能提出问题/讨论/建议
