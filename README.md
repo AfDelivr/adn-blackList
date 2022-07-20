@@ -1,7 +1,7 @@
 ## ADN公益加速服务黑名单列表 ##
 
-[ADN服务使用协议][https://arcitcgn.cn/171.html]
-本page将记录违反改协议的网站
+[ADN服务使用协议](https://arcitcgn.cn/171.html)
+本page将记录违反该协议的网站
 ## 我们对滥用行为的定义 ##
 
 我们将滥用行为定义为如下几种情况：
